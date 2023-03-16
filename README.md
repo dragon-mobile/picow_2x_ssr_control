@@ -1,12 +1,12 @@
 # picow_ssr_control
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 ![GitHub](https://img.shields.io/static/v1?label=license&message=CERN-OHL-W-2.0%20%2F%20MIT%20%2F%20CC-BY-SA-4.0&color=orange)<br/>
-![GitHub](https://img.shields.io/github/issues/dragon-mobile/picow_ssr_control)
-![GitHub](https://img.shields.io/github/v/release/dragon-mobile/picow_ssr_control)
-![GitHub](https://img.shields.io/github/release-date/dragon-mobile/picow_ssr_control)
-![GitHub](https://img.shields.io/github/last-commit/dragon-mobile/picow_ssr_control)<br/>
+![GitHub](https://img.shields.io/github/issues/dragon-mobile/picow_2x_ssr_control)
+![GitHub](https://img.shields.io/github/v/release/dragon-mobile/picow_2x_ssr_control)
+![GitHub](https://img.shields.io/github/release-date/dragon-mobile/picow_2x_ssr_control)
+![GitHub](https://img.shields.io/github/last-commit/dragon-mobile/picow_2x_ssr_control)<br/>
 
-The Raspberry Pi Pico W Solid State Relay Controller is primarily meant to be
+The Raspberry Pi Pico W 2x Solid State Relay Controller is primarily meant to be
 used with an open hardware solid state relay PCBs that is being co-developed
 alongside this project as part of my Dragon Mobile GitHub organization to make
 useful hardware with associated firmware and software for the tiny home, van
@@ -15,11 +15,13 @@ life and maker communities.
 ## Visual 3D examples
 
 Top view<br/>
-![Top view 3D rendering of the circuit board in FreeCAD](docs/picow_ssr_control.png "Circuit board top view")<br/>
+![Top view 3D rendering of the circuit board in FreeCAD](docs/picow_2x_ssr_control.png "Circuit board top view")<br/>
 Bottom view<br/>
-![Bottom view 3D rendering of the circuit board in FreeCAD](docs/picow_ssr_control_back.png "Circuit board bottom view")<br/>
+![Bottom view 3D rendering of the circuit board in FreeCAD](docs/picow_2x_ssr_control_back.png "Circuit board bottom view")<br/>
 
 ## Description
+
+~~Outdated~~
 
 The board consist of four main electronic sections: Power In / Control Out,
 Power Management / Regulation, Manual Control,
