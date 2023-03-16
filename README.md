@@ -21,12 +21,12 @@ Bottom view<br/>
 
 ## Description
 
-~~Outdated~~
+___Outdated___
 
-The board consist of four main electronic sections: Power In / Control Out,
+~~The board consist of four main electronic sections: Power In / Control Out,
 Power Management / Regulation, Manual Control,
 and the PicoW Control / Drivers.
-There is one mechanical section as well: Mounting Holes.
+There is one mechanical section as well: Mounting Holes.~~
 
 ## Contributing
 
